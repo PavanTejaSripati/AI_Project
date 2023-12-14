@@ -40,7 +40,7 @@ Math: Mathematical operations are performed using the math module. It represents
 Utilising these libraries and modules, the code implements the game logic, which includes player moves, determining a victory condition, and selecting the AI player's move using the minimax algorithm. This results in a graphical depiction of the Connect Four game.
 
 Requirements
-•	Python (if the game is implemented in Python)
+•	Python
 
 
 Installation
